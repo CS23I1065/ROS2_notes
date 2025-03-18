@@ -22,6 +22,8 @@ DDS follows **publish-subscribe**
 - DDS needs a way to find which programs are talking.
 - Uses **Discovery Server** to help programs find each other.
 - Helps in large networks where multiple programs need to talk.
+![Discovery Image](../images/discovery.png)
+
 
 ## Why is DDS Better Than Normal Networks?
 | Feature          | DDS       | Normal Network |
